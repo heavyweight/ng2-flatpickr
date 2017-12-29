@@ -22,11 +22,11 @@
   },
   "typings": "./ng2-flatpickr.d.ts",
   "devDependencies": {
-    "@angular/core": "^2.4.8",
-    "@angular/forms": "^2.4.9",
-    "@types/node": "^7.0.5",
-    "rxjs": "^5.2.0",
-    "typescript": "^2.2.1",
-    "zone.js": "^0.7.7"
+    "@angular/core": "^4.3.6",
+    "@angular/forms": "^4.3.6",
+    "@types/node": "^8.0.28",
+    "rxjs": "^5.4.1",
+    "typescript": "~2.3.3",
+    "zone.js": "^0.8.14"
   }
 }
