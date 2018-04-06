@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mezoistvan/ng2-flatpickr#readme",
   "dependencies": {
-    "flatpickr": "^4.0.6"
+    "flatpickr": "4.3.2"
   },
   "typings": "./ng2-flatpickr.d.ts",
   "devDependencies": {
